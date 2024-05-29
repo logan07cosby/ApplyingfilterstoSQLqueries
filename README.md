@@ -20,20 +20,28 @@ In this project, the AND, OR, and NOT operators are used filter for information 
 <h2>Command line walk-through:</h2>
 
 <p align="center">
-Change directory, and list contents: <br/>
-<img src="linux 1.PNG" height="80%" width="80%" alt=""/>
+Retrieve after hours failed login attempts: <br/>
+<img src="sql 1.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on text file:  <br/>
-<img src="linux 2.PNG" height="80%" width="80%" alt=""/>
+Retrieve login attempts on specific dates:  <br/>
+<img src="sql 2.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on hidden text file: <br/>
-<img src="linux 3.PNG" height="80%" width="80%" alt=""/>
+Retrieve login attempts outside of Mexico: <br/>
+<img src="sql 3.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on directory: <br/>
-<img src="linux 4.PNG" height="80%" width="80%" alt=""/>
+Retrieve employees in Marketing: <br/>
+<img src="sql 4.PNG" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Retrieve employees in Finance or Sales: <br/>
+<img src="sql 5.PNG" height="80%" width="80%" alt=""/>
+<br />
+<br />
+Retrieve all employees not in IT: <br/>
+<img src="sql 6.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
